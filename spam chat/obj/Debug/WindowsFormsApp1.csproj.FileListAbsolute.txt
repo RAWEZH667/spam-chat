@@ -1,0 +1,11 @@
+D:\spam bor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\spam bor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\spam bor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\spam bor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
